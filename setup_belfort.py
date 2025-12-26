@@ -38,14 +38,14 @@ def create_structure():
     
     if not base_path.exists():
         base_path.mkdir()
-        print(f"✅ Directorio raíz creado: {PROJECT_NAME}")
+        print(f"Directorio raíz creado: {PROJECT_NAME}")
     
     for folder in STRUCTURE:
         folder_path = base_path / folder
         folder_path.mkdir(parents=True, exist_ok=True)
         # Crear un .gitkeep para que git suba carpetas vacías
         (folder_path / ".gitkeep").touch()
-        print(f"   📂 Carpeta creada: {folder}")
+        print(f"Carpeta creada: {folder}")
 
     # 2. Crear Archivos Base
     for file_name, content in FILES.items():
@@ -55,9 +55,9 @@ def create_structure():
                 f.write(content)
             print(f"  Archivo creado: {file_name}")
         else:
-            print(f"   ⚠️ El archivo ya existe: {file_name}")
+            print(f"El archivo ya existe: {file_name}")
 
-    print("\n🐺 BELFORT está listo. Estructura desplegada correctamente.")
+    print("\n BELFORT está listo. Estructura desplegada correctamente.")
     print(f" cd {PROJECT_NAME}")
 
 if __name__ == "__main__":
