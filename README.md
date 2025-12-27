@@ -8,7 +8,7 @@ Agente de IA para Riesgo Financiero.
 
 > *"Risk comes from not knowing what you're doing."*
 
-**BELFORT** es un Agente de Inteligencia Artificial diseñado para la gestión de riesgo financiero y análisis de carteras institucionales. A diferencia de un chatbot convencional, BELFORT combina **SQL Reasoning** (análisis de bases de datos internas) con **Market Vision** (datos de mercado en tiempo real) para auditar posiciones, detectar anomalías y generar reportes ejecutivos.
+**BELFORT** es un Agente de Inteligencia Artificial diseñado para la gestión de riesgo financiero y análisis de carteras institucionales. A diferencia de un chatbot convencional, BELFORT combina **SQL Reasoning** (análisis de bases de datos internas) con **Market Vision** (datos de mercado en tiempo real) para auditar posiciones, detectar anomalías y generar reportes ejecutivos. BELFORT utiliza su propia base de datos (institutional-radar-engine)** que es un Data Warehouse financiero que fue creado en el último repositorio y tendrá actualizaciones de forma trimestral.
 
 ---
 
