@@ -86,3 +86,4 @@ def save_risk_report(topic: str, content: str):
 
     except Exception as e:
         return f"⚠️ Reporte guardado solo como MD. Error en PDF: {str(e)}"
+        
