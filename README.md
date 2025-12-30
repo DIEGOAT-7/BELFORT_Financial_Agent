@@ -1,4 +1,4 @@
-# 🐺 BELFORT: Financial Risk Intelligence Agent
+# 🐺 **BELFORT: Financial Risk Intelligence Agent**
 
 Agente de IA para Riesgo Financiero.
 
