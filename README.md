@@ -16,7 +16,7 @@ Agente de IA para Riesgo Financiero.
 
 ![alt text](img/BELFORT_Interfaz.png)
 ---
-
+ 
 ## Capacidades Principales
 
 ### 1. Deep SQL Reasoning
