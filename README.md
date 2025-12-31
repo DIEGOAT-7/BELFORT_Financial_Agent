@@ -23,7 +23,7 @@ Agente de IA para Riesgo Financiero.
 BELFORT entiende la estructura de bases de datos financieras complejas. Puede realizar consultas avanzadas sobre Holdings, Derivados (Calls/Puts) y Cadenas de Suministro sin necesidad de escribir una sola línea de SQL manual.
 
 ### 2. Real-Time Market Vision
-Integra `yfinance` para cruzar el "Valor en Libros" (base de datos) con el "Valor de Mercado" (precio actual).
+Integra **`yfinance`** para cruzar el "Valor en Libros" (base de datos) con el "Valor de Mercado" (precio actual).
 * *Ejemplo:* "Analiza mi posición en NVDA. ¿Cuánto ha variado mi exposición real vs. mi registro contable?"
 
 ### 3. Risk Assessment Engine
