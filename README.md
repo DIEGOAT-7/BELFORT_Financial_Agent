@@ -15,7 +15,7 @@ Agente de IA para Riesgo Financiero.
 ## Interfaz (Terminal UI)
 
 ![alt text](img/BELFORT_Interfaz.png)
----
+--- 
  
 ## Capacidades Principales
 
