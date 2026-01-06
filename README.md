@@ -84,4 +84,6 @@ Genera documentos PDF listos para la gerencia (`/reports`), resumiendo hallazgos
 
 ---
 
+## **Actualizaciones:**
+
 **Autor:** [Diego Ortiz](https://www.linkedin.com/in/diego-ortiz-0ab660256/)
